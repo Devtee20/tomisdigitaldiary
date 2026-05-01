@@ -161,16 +161,6 @@ body {
 }
 
 
-
-/* .tag:hover {
-  background: var(--ink);
-  color: var(--accent);
-  border-color: var(--ink);
-  transform: translateY(-3px);
-} */
-
-
-
 .section-wrap {
   padding: 60px 24px;
   max-width: 560px;
@@ -592,3 +582,5 @@ footer a { color: var(--accent); text-decoration: none; }
   color: var(--accent);
   text-align: center;
 }
+
+
